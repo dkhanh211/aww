@@ -1,0 +1,105 @@
+2026-06-06 10:38:18.206 13497-13597 UE4Dump3r               com.tencent.ig                       I  Waiting for SDK Initialization...
+2026-06-06 10:38:18.206 13497-13598 UE4Dump3r               com.tencent.ig                       I  Attaching Bypass...
+2026-06-06 10:38:18.214 13497-13597 UE4Dump3r               com.tencent.ig                       I  ObjectsStore: libUE4 found at 0x76385d919000
+2026-06-06 10:38:18.214 13497-13597 UE4Dump3r               com.tencent.ig                       I  ObjectsStore Initialized successfully at 0x76386c34a560!
+2026-06-06 10:38:18.214 13497-13598 UE4Dump3r               com.tencent.ig                       I  libanogs Base: 0xc04c000
+2026-06-06 10:38:18.216 13497-13597 UE4Dump3r               com.tencent.ig                       I  NamesStore: libUE4 found at 0x76385d919000, trying offset 0x85dbcec (Function)
+2026-06-06 10:38:18.216 13497-13597 UE4Dump3r               com.tencent.ig                       I  Try Offset GNames function at 0x763865ef4cec...
+2026-06-06 10:38:18.216 13497-13597 UE4Dump3r               com.tencent.ig                       I  GNames function returned: 0x76388c07daf0
+2026-06-06 10:38:18.216 13497-13597 UE4Dump3r               com.tencent.ig                       I  NamesStore done at: 0x76388c07daf0, count: 43437
+2026-06-06 10:38:18.216 13497-13597 UE4Dump3r               com.tencent.ig                       I  SDK Initialized!
+2026-06-06 10:38:18.216 13497-13597 UE4Dump3r               com.tencent.ig                       I  ObjectsStore::GetObjectsNum() = 0
+2026-06-06 10:38:18.232 13497-13598 UE4Dump3r               com.tencent.ig                       I  Bypass Successfuly
+2026-06-06 10:38:19.219 13497-13597 UE4Dump3r               com.tencent.ig                       I  ObjectsStore::GetObjectsNum() = 0
+2026-06-06 10:38:20.224 13497-13597 UE4Dump3r               com.tencent.ig                       I  ObjectsStore::GetObjectsNum() = 0
+2026-06-06 10:38:21.224 13497-13597 UE4Dump3r               com.tencent.ig                       I  ObjectsStore::GetObjectsNum() = 0
+2026-06-06 10:38:22.225 13497-13597 UE4Dump3r               com.tencent.ig                       I  ObjectsStore::GetObjectsNum() = 0
+2026-06-06 10:38:23.226 13497-13597 UE4Dump3r               com.tencent.ig                       I  ObjectsStore::GetObjectsNum() = 0
+2026-06-06 10:38:24.227 13497-13597 UE4Dump3r               com.tencent.ig                       I  ObjectsStore::GetObjectsNum() = 0
+2026-06-06 10:38:25.227 13497-13597 UE4Dump3r               com.tencent.ig                       I  ObjectsStore::GetObjectsNum() = 0
+2026-06-06 10:38:26.227 13497-13597 UE4Dump3r               com.tencent.ig                       I  ObjectsStore::GetObjectsNum() = 0
+2026-06-06 10:38:27.228 13497-13597 UE4Dump3r               com.tencent.ig                       I  ObjectsStore::GetObjectsNum() = 0
+2026-06-06 10:38:28.228 13497-13597 UE4Dump3r               com.tencent.ig                       I  ObjectsStore::GetObjectsNum() = 150000
+2026-06-06 10:38:29.229 13497-13597 UE4Dump3r               com.tencent.ig                       I  ObjectsStore::GetObjectsNum() = 150000
+2026-06-06 10:38:30.229 13497-13597 UE4Dump3r               com.tencent.ig                       I  ObjectsStore::GetObjectsNum() = 150000
+2026-06-06 10:38:31.229 13497-13597 UE4Dump3r               com.tencent.ig                       I  ObjectsStore::GetObjectsNum() = 160930
+2026-06-06 10:38:32.229 13497-13597 UE4Dump3r               com.tencent.ig                       I  ObjectsStore::GetObjectsNum() = 183901
+2026-06-06 10:38:33.230 13497-13597 UE4Dump3r               com.tencent.ig                       I  ObjectsStore::GetObjectsNum() = 186964
+2026-06-06 10:38:34.230 13497-13597 UE4Dump3r               com.tencent.ig                       I  ObjectsStore::GetObjectsNum() = 191747
+2026-06-06 10:38:35.231 13497-13597 UE4Dump3r               com.tencent.ig                       I  ObjectsStore::GetObjectsNum() = 191834
+2026-06-06 10:38:36.231 13497-13597 UE4Dump3r               com.tencent.ig                       I  ObjectsStore::GetObjectsNum() = 191834
+2026-06-06 10:38:37.231 13497-13597 UE4Dump3r               com.tencent.ig                       I  ObjectsStore::GetObjectsNum() = 191834
+2026-06-06 10:38:38.231 13497-13597 UE4Dump3r               com.tencent.ig                       I  ObjectsStore::GetObjectsNum() = 191834
+2026-06-06 10:38:39.232 13497-13597 UE4Dump3r               com.tencent.ig                       I  ObjectsStore::GetObjectsNum() = 191834
+2026-06-06 10:38:40.232 13497-13597 UE4Dump3r               com.tencent.ig                       I  ObjectsStore::GetObjectsNum() = 191834
+2026-06-06 10:38:41.233 13497-13597 UE4Dump3r               com.tencent.ig                       I  ObjectsStore::GetObjectsNum() = 191834
+2026-06-06 10:38:42.237 13497-13597 UE4Dump3r               com.tencent.ig                       I  ObjectsStore::GetObjectsNum() = 191834
+2026-06-06 10:38:43.238 13497-13597 UE4Dump3r               com.tencent.ig                       I  ObjectsStore::GetObjectsNum() = 191890
+2026-06-06 10:38:44.238 13497-13597 UE4Dump3r               com.tencent.ig                       I  ObjectsStore::GetObjectsNum() = 192072
+2026-06-06 10:38:45.238 13497-13597 UE4Dump3r               com.tencent.ig                       I  ObjectsStore::GetObjectsNum() = 192670
+2026-06-06 10:38:46.239 13497-13597 UE4Dump3r               com.tencent.ig                       I  ObjectsStore::GetObjectsNum() = 192765
+2026-06-06 10:38:47.240 13497-13597 UE4Dump3r               com.tencent.ig                       I  ObjectsStore::GetObjectsNum() = 193637
+2026-06-06 10:38:48.240 13497-13597 UE4Dump3r               com.tencent.ig                       I  ObjectsStore::GetObjectsNum() = 193835
+2026-06-06 10:38:49.241 13497-13597 UE4Dump3r               com.tencent.ig                       I  ObjectsStore::GetObjectsNum() = 193863
+2026-06-06 10:38:50.241 13497-13597 UE4Dump3r               com.tencent.ig                       I  ObjectsStore::GetObjectsNum() = 193883
+2026-06-06 10:38:51.241 13497-13597 UE4Dump3r               com.tencent.ig                       I  ObjectsStore::GetObjectsNum() = 193905
+2026-06-06 10:38:52.242 13497-13597 UE4Dump3r               com.tencent.ig                       I  ObjectsStore::GetObjectsNum() = 195759
+2026-06-06 10:38:53.242 13497-13597 UE4Dump3r               com.tencent.ig                       I  ObjectsStore::GetObjectsNum() = 195980
+2026-06-06 10:38:54.243 13497-13597 UE4Dump3r               com.tencent.ig                       I  ObjectsStore::GetObjectsNum() = 195980
+2026-06-06 10:38:55.243 13497-13597 UE4Dump3r               com.tencent.ig                       I  ObjectsStore::GetObjectsNum() = 196657
+2026-06-06 10:38:56.243 13497-13597 UE4Dump3r               com.tencent.ig                       I  ObjectsStore::GetObjectsNum() = 196657
+2026-06-06 10:38:57.244 13497-13597 UE4Dump3r               com.tencent.ig                       I  ObjectsStore::GetObjectsNum() = 196657
+2026-06-06 10:38:58.244 13497-13597 UE4Dump3r               com.tencent.ig                       I  ObjectsStore::GetObjectsNum() = 197730
+2026-06-06 10:38:59.244 13497-13597 UE4Dump3r               com.tencent.ig                       I  ObjectsStore::GetObjectsNum() = 198806
+2026-06-06 10:39:00.244 13497-13597 UE4Dump3r               com.tencent.ig                       I  ObjectsStore::GetObjectsNum() = 198806
+2026-06-06 10:39:01.245 13497-13597 UE4Dump3r               com.tencent.ig                       I  ObjectsStore::GetObjectsNum() = 199497
+2026-06-06 10:39:02.245 13497-13597 UE4Dump3r               com.tencent.ig                       I  ObjectsStore::GetObjectsNum() = 199532
+2026-06-06 10:39:03.247 13497-13597 UE4Dump3r               com.tencent.ig                       I  ObjectsStore::GetObjectsNum() = 199544
+2026-06-06 10:39:04.248 13497-13597 UE4Dump3r               com.tencent.ig                       I  ObjectsStore::GetObjectsNum() = 199607
+2026-06-06 10:39:05.248 13497-13597 UE4Dump3r               com.tencent.ig                       I  ObjectsStore::GetObjectsNum() = 199902
+2026-06-06 10:39:06.248 13497-13597 UE4Dump3r               com.tencent.ig                       I  ObjectsStore::GetObjectsNum() = 199998
+2026-06-06 10:39:07.248 13497-13597 UE4Dump3r               com.tencent.ig                       I  ObjectsStore::GetObjectsNum() = 203282
+2026-06-06 10:39:08.248 13497-13597 UE4Dump3r               com.tencent.ig                       I  ObjectsStore::GetObjectsNum() = 206051
+2026-06-06 10:39:09.248 13497-13597 UE4Dump3r               com.tencent.ig                       I  ObjectsStore::GetObjectsNum() = 207927
+2026-06-06 10:39:10.249 13497-13597 UE4Dump3r               com.tencent.ig                       I  ObjectsStore::GetObjectsNum() = 210516
+2026-06-06 10:39:11.249 13497-13597 UE4Dump3r               com.tencent.ig                       I  ObjectsStore::GetObjectsNum() = 211124
+2026-06-06 10:39:12.249 13497-13597 UE4Dump3r               com.tencent.ig                       I  ObjectsStore::GetObjectsNum() = 211371
+2026-06-06 10:39:13.250 13497-13597 UE4Dump3r               com.tencent.ig                       I  ObjectsStore::GetObjectsNum() = 211585
+2026-06-06 10:39:14.250 13497-13597 UE4Dump3r               com.tencent.ig                       I  ObjectsStore::GetObjectsNum() = 212203
+2026-06-06 10:39:15.250 13497-13597 UE4Dump3r               com.tencent.ig                       I  ObjectsStore::GetObjectsNum() = 212213
+2026-06-06 10:39:16.250 13497-13597 UE4Dump3r               com.tencent.ig                       I  ObjectsStore::GetObjectsNum() = 223967
+2026-06-06 10:39:17.251 13497-13597 UE4Dump3r               com.tencent.ig                       I  ObjectsStore::GetObjectsNum() = 228037
+2026-06-06 10:39:18.251 13497-13597 UE4Dump3r               com.tencent.ig                       I  ObjectsStore::GetObjectsNum() = 228258
+2026-06-06 10:39:19.252 13497-13597 UE4Dump3r               com.tencent.ig                       I  ObjectsStore::GetObjectsNum() = 230106
+2026-06-06 10:39:20.252 13497-13597 UE4Dump3r               com.tencent.ig                       I  ObjectsStore::GetObjectsNum() = 234250
+2026-06-06 10:39:21.252 13497-13597 UE4Dump3r               com.tencent.ig                       I  ObjectsStore::GetObjectsNum() = 239477
+2026-06-06 10:39:22.253 13497-13597 UE4Dump3r               com.tencent.ig                       I  ObjectsStore::GetObjectsNum() = 245458
+2026-06-06 10:39:23.253 13497-13597 UE4Dump3r               com.tencent.ig                       I  ObjectsStore::GetObjectsNum() = 245785
+2026-06-06 10:39:24.253 13497-13597 UE4Dump3r               com.tencent.ig                       I  ObjectsStore::GetObjectsNum() = 245785
+2026-06-06 10:39:25.254 13497-13597 UE4Dump3r               com.tencent.ig                       I  ObjectsStore::GetObjectsNum() = 245785
+2026-06-06 10:39:26.254 13497-13597 UE4Dump3r               com.tencent.ig                       I  ObjectsStore::GetObjectsNum() = 245785
+2026-06-06 10:39:27.254 13497-13597 UE4Dump3r               com.tencent.ig                       I  ObjectsStore::GetObjectsNum() = 246142
+2026-06-06 10:39:28.254 13497-13597 UE4Dump3r               com.tencent.ig                       I  ObjectsStore::GetObjectsNum() = 246952
+2026-06-06 10:39:29.255 13497-13597 UE4Dump3r               com.tencent.ig                       I  ObjectsStore::GetObjectsNum() = 247645
+2026-06-06 10:39:30.255 13497-13597 UE4Dump3r               com.tencent.ig                       I  ObjectsStore::GetObjectsNum() = 248090
+2026-06-06 10:39:31.256 13497-13597 UE4Dump3r               com.tencent.ig                       I  ObjectsStore::GetObjectsNum() = 248249
+2026-06-06 10:39:32.257 13497-13597 UE4Dump3r               com.tencent.ig                       I  ObjectsStore::GetObjectsNum() = 248260
+2026-06-06 10:39:33.257 13497-13597 UE4Dump3r               com.tencent.ig                       I  ObjectsStore::GetObjectsNum() = 248368
+2026-06-06 10:39:34.258 13497-13597 UE4Dump3r               com.tencent.ig                       I  ObjectsStore::GetObjectsNum() = 248567
+2026-06-06 10:39:35.258 13497-13597 UE4Dump3r               com.tencent.ig                       I  ObjectsStore::GetObjectsNum() = 248757
+2026-06-06 10:39:36.258 13497-13597 UE4Dump3r               com.tencent.ig                       I  ObjectsStore::GetObjectsNum() = 248771
+2026-06-06 10:39:37.258 13497-13597 UE4Dump3r               com.tencent.ig                       I  ObjectsStore::GetObjectsNum() = 248773
+2026-06-06 10:39:38.259 13497-13597 UE4Dump3r               com.tencent.ig                       I  ObjectsStore::GetObjectsNum() = 248773
+2026-06-06 10:39:39.259 13497-13597 UE4Dump3r               com.tencent.ig                       I  ObjectsStore::GetObjectsNum() = 248774
+2026-06-06 10:39:40.259 13497-13597 UE4Dump3r               com.tencent.ig                       I  ObjectsStore::GetObjectsNum() = 248774
+2026-06-06 10:39:41.259 13497-13597 UE4Dump3r               com.tencent.ig                       I  ObjectsStore::GetObjectsNum() = 248854
+2026-06-06 10:39:42.259 13497-13597 UE4Dump3r               com.tencent.ig                       I  ObjectsStore::GetObjectsNum() = 249661
+2026-06-06 10:39:43.260 13497-13597 UE4Dump3r               com.tencent.ig                       I  ObjectsStore::GetObjectsNum() = 249664
+2026-06-06 10:39:44.261 13497-13597 UE4Dump3r               com.tencent.ig                       I  ObjectsStore::GetObjectsNum() = 249667
+2026-06-06 10:39:45.262 13497-13597 UE4Dump3r               com.tencent.ig                       I  ObjectsStore::GetObjectsNum() = 249686
+2026-06-06 10:39:46.262 13497-13597 UE4Dump3r               com.tencent.ig                       I  ObjectsStore::GetObjectsNum() = 250608
+2026-06-06 10:39:47.154 13497-13597 UE4Dump3r               com.tencent.ig                       I  Saved NamesDump.txt successfully.
+2026-06-06 10:39:48.421 13497-13597 UE4Dump3r               com.tencent.ig                       I  Saved ObjectsDump.txt successfully.
+2026-06-06 10:39:48.502 13497-13597 UE4Dump3r               com.tencent.ig                       I  Dumping 2615 packages...
+2026-06-06 10:39:55.973 13497-13597 UE4Dump3r               com.tencent.ig                       I  Saving SDK Header...
+2026-06-06 10:39:56.023 13497-13597 UE4Dump3r               com.tencent.ig                       I  --- DUMP SUCCESSFULLY --- Files saved to /storage/emulated/0/Download/UE4_Dump
